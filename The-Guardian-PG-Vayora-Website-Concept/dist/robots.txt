@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This is a concept preview. Remove the disallow rule and add a sitemap only
+# after the client approves the site and a canonical production domain is known.

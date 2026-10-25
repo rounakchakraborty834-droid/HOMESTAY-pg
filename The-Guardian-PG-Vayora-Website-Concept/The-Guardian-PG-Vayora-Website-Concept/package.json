@@ -1,0 +1,14 @@
+{
+  "name": "the-guardian-pg-vayora-website-concept",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive, editorial website concept for The Guardian PG in Dehradun.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/check.js",
+    "check": "node scripts/check.js",
+    "test": "node scripts/check.js"
+  }
+}
